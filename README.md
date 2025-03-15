@@ -30,7 +30,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/medical-assistance.git
+git clone https://github.com/Keshavraj52/medical-assistance.git
 cd medical-assistance
 
 Create a virtual environment and install dependencies:
